@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# 凭证，永不入库
+.gallery-creds.json
+sts-creds.json
+creds.json
+*creds*.json
+
+# 产物
+*.zip
